@@ -1,0 +1,22 @@
+#mainBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  position: relative;
+}
+
+button {
+  background-color: #09f;
+  border-radius: 10px;
+  height: 50px;
+  font-size: 20px;
+  font-family: sans-serif;
+  color: white;
+}
+
+button:hover {
+  background-color: aliceblue;
+  color: #09f;
+  transition: 0.2s;
+}
