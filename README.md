@@ -16,7 +16,7 @@ This project demonstrates how to dynamically change the background color of an e
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/color-changer.git`
+1. Clone the repository: `git clone [https://github.com/your-username/color-changer.git](https://github.com/DvzZDev/BG-Changer.git)`
 2. Open `index.html` in your browser.
 3. Click the "Change Color" button to see the background color change.
 
