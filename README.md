@@ -1,7 +1,7 @@
 <!-- README.md -->
-https://dvzzdev.github.io/BG-Changer/
-# Color Changer Project
 
+# Color Changer Project
+https://dvzzdev.github.io/BG-Changer/
 This is a mini project built with vanilla HTML, CSS, and JavaScript. It allows you to change the background color of an element dynamically.
 
 ## Description
