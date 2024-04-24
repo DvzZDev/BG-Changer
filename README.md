@@ -7,7 +7,6 @@ This is a mini project built with vanilla HTML, CSS, and JavaScript. It allows y
 ## Description
 
 This project demonstrates how to dynamically change the background color of an element using JavaScript. It generates random RGB values and applies them as the background color when a button is clicked.
-Page📎https://dvzzdev.github.io/BG-Changer/
 
 ## Features
 
@@ -17,9 +16,8 @@ Page📎https://dvzzdev.github.io/BG-Changer/
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/DvzZDev/BG-Changer.git`
-2. Open `index.html` in your browser.
-3. Click the "Change Color" button to see the background color change.
+1. Open `https://dvzzdev.github.io/BG-Changer/` in your browser.
+2. Click the "Change Color" button to see the background color change.
 
 ## Technologies Used
 
